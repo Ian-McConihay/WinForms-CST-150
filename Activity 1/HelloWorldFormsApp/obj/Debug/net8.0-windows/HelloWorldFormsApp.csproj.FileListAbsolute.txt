@@ -1,0 +1,16 @@
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.exe
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.deps.json
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.runtimeconfig.json
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.Form1.resources
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.GenerateResource.cache
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfoInputs.cache
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfo.cs
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\refint\HelloWorldFormsApp.dll
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.genruntimeconfig.cache
+C:\Users\nmcco\source\repos\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\ref\HelloWorldFormsApp.dll
