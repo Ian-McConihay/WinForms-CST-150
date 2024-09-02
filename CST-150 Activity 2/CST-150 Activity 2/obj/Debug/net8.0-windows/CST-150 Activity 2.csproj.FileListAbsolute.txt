@@ -1,0 +1,17 @@
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net8.0-windows\CST-150 Activity 2.exe
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net8.0-windows\CST-150 Activity 2.deps.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net8.0-windows\CST-150 Activity 2.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net8.0-windows\CST-150 Activity 2.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net8.0-windows\CST-150 Activity 2.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST_150_Activity_2.FrmTest.resources
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\refint\CST-150 Activity 2.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\CST-150 Activity 2.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net8.0-windows\ref\CST-150 Activity 2.dll
