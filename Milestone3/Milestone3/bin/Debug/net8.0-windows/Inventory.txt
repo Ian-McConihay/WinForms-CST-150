@@ -1,0 +1,30 @@
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+ID: 3, Description: Mystic Staff, Damage: 100, Quantity: 8, Cost: 900.50G, Weight: 2lbs
+ID: 4, Description: Dwarven Axe, Damage: 130, Quantity: 4, Cost: 1100.00G, Weight: 4lbs
+ID: 5, Description: Healing Potion, Damage: 0, Quantity: 20, Cost: 50.25G, Weight: 0.5lbs
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+Milestone3.InventoryItem
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+Milestone3.InventoryItem
+ID: 3, Description: Mystic Staff, Damage: 100, Quantity: 8, Cost: 900.50G, Weight: 2lbs
+Milestone3.InventoryItem
+ID: 4, Description: Dwarven Axe, Damage: 130, Quantity: 4, Cost: 1100.00G, Weight: 4lbs
+Milestone3.InventoryItem
+ID: 5, Description: Healing Potion, Damage: 0, Quantity: 20, Cost: 50.25G, Weight: 0.5lbs
+Milestone3.InventoryItem
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+ID: 3, Description: Mystic Staff, Damage: 100, Quantity: 8, Cost: 900.50G, Weight: 2lbs
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+ID: 3, Description: Mystic Staff, Damage: 100, Quantity: 8, Cost: 900.50G, Weight: 2lbs
+ID: 4, Description: Dwarven Axe, Damage: 130, Quantity: 4, Cost: 1100.00G, Weight: 4lbs
+ID: 1, Description: Dragon Slayer Sword, Damage: 150, Quantity: 5, Cost: 1200.00G, Weight: 3.5lbs
+ID: 2, Description: Elven Bow, Damage: 85, Quantity: 10, Cost: 750.75G, Weight: 1.2lbs
+ID: 3, Description: Mystic Staff, Damage: 100, Quantity: 8, Cost: 900.50G, Weight: 2lbs
+ID: 4, Description: Dwarven Axe, Damage: 130, Quantity: 4, Cost: 1100.00G, Weight: 4lbs
+ID: 5, Description: Healing Potion, Damage: 0, Quantity: 20, Cost: 50.25G, Weight: 0.5lbs
