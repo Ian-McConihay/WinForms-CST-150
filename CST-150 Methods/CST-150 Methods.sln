@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST-150 Methods", "CST-150 Methods\CST-150 Methods.csproj", "{73B45618-CF31-4DF8-8298-CB0E37CC7153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B45618-CF31-4DF8-8298-CB0E37CC7153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B45618-CF31-4DF8-8298-CB0E37CC7153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B45618-CF31-4DF8-8298-CB0E37CC7153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B45618-CF31-4DF8-8298-CB0E37CC7153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CD212C-50DD-4462-972B-55A616749D35}
+	EndGlobalSection
+EndGlobal
