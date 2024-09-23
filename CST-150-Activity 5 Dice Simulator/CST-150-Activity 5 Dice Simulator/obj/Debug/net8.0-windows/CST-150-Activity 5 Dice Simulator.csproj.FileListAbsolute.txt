@@ -1,0 +1,18 @@
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST_150_Activity_5_Dice_Simulator.Form1.resources
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST_150_Activity_5_Dice_Simulator.Properties.Resources.resources
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\bin\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.exe
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\bin\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.deps.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\bin\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\bin\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\bin\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\refint\CST-150-Activity 5 Dice Simulator.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\CST-150-Activity 5 Dice Simulator.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity 5 Dice Simulator\CST-150-Activity 5 Dice Simulator\obj\Debug\net8.0-windows\ref\CST-150-Activity 5 Dice Simulator.dll
