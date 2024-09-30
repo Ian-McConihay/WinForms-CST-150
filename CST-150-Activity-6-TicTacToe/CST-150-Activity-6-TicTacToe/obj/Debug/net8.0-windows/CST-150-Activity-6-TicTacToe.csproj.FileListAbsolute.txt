@@ -1,0 +1,17 @@
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\bin\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.exe
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\bin\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.deps.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\bin\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\bin\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\bin\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST_150_Activity_6_TicTacToe.Form1.resources
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\refint\CST-150-Activity-6-TicTacToe.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\CST-150-Activity-6-TicTacToe.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150-Activity-6-TicTacToe\CST-150-Activity-6-TicTacToe\obj\Debug\net8.0-windows\ref\CST-150-Activity-6-TicTacToe.dll
