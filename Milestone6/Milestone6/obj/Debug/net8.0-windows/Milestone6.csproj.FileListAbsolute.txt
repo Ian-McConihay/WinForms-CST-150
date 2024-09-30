@@ -1,0 +1,34 @@
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\bin\Debug\net8.0-windows\Milestone6.exe
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\bin\Debug\net8.0-windows\Milestone6.deps.json
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\bin\Debug\net8.0-windows\Milestone6.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\bin\Debug\net8.0-windows\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\bin\Debug\net8.0-windows\Milestone6.pdb
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.Form1.resources
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\refint\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.pdb
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\Milestone6.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone7 - Copy\Milestone7\obj\Debug\net8.0-windows\ref\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\bin\Debug\net8.0-windows\Milestone6.exe
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\bin\Debug\net8.0-windows\Milestone6.deps.json
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\bin\Debug\net8.0-windows\Milestone6.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\bin\Debug\net8.0-windows\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\bin\Debug\net8.0-windows\Milestone6.pdb
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.Form1.resources
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\refint\Milestone6.dll
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.pdb
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\Milestone6.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\Milestone6\Milestone6\obj\Debug\net8.0-windows\ref\Milestone6.dll
