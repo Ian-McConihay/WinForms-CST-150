@@ -1,0 +1,17 @@
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net8.0-windows\CST-150 ListTogv.exe
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net8.0-windows\CST-150 ListTogv.deps.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net8.0-windows\CST-150 ListTogv.runtimeconfig.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net8.0-windows\CST-150 ListTogv.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net8.0-windows\CST-150 ListTogv.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST_150_ListTogv.FrmInventory.resources
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.csproj.GenerateResource.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.AssemblyInfoInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.AssemblyInfo.cs
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.csproj.CoreCompileInputs.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.sourcelink.json
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\refint\CST-150 ListTogv.dll
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.pdb
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\CST-150 ListTogv.genruntimeconfig.cache
+C:\Users\nmcco\Desktop\CST-150\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net8.0-windows\ref\CST-150 ListTogv.dll
